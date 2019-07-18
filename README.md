@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 ## comand to run the script
 ```bash
 Format : python3 task.py -u <username> -passwd <password -f <file path>
-Ecample command : 
+Eg: 
 python3 task.py -u root -passwd mypassword -f sample_data.txt
 ```
 
